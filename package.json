@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-     "build": "your-build-command"
+    "build": "your-build-command"
   },
   "author": "",
   "license": "ISC",
